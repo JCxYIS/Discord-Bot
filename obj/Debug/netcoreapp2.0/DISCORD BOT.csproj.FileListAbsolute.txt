@@ -1,0 +1,33 @@
+X:\Downloads\DISCORD BOT\bin\Debug\netcoreapp2.0\DISCORD BOT.deps.json
+X:\Downloads\DISCORD BOT\bin\Debug\netcoreapp2.0\DISCORD BOT.runtimeconfig.json
+X:\Downloads\DISCORD BOT\bin\Debug\netcoreapp2.0\DISCORD BOT.runtimeconfig.dev.json
+X:\Downloads\DISCORD BOT\bin\Debug\netcoreapp2.0\DISCORD BOT.dll
+X:\Downloads\DISCORD BOT\bin\Debug\netcoreapp2.0\DISCORD BOT.pdb
+X:\Downloads\DISCORD BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.csprojResolveAssemblyReference.cache
+X:\Downloads\DISCORD BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.csproj.CoreCompileInputs.cache
+X:\Downloads\DISCORD BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.AssemblyInfoInputs.cache
+X:\Downloads\DISCORD BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.AssemblyInfo.cs
+X:\Downloads\DISCORD BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.dll
+X:\Downloads\DISCORD BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.pdb
+X:\Documents\DISCORD BOT\bin\Debug\netcoreapp2.0\DISCORD BOT.deps.json
+X:\Documents\DISCORD BOT\bin\Debug\netcoreapp2.0\DISCORD BOT.runtimeconfig.json
+X:\Documents\DISCORD BOT\bin\Debug\netcoreapp2.0\DISCORD BOT.runtimeconfig.dev.json
+X:\Documents\DISCORD BOT\bin\Debug\netcoreapp2.0\DISCORD BOT.dll
+X:\Documents\DISCORD BOT\bin\Debug\netcoreapp2.0\DISCORD BOT.pdb
+X:\Documents\DISCORD BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.csprojResolveAssemblyReference.cache
+X:\Documents\DISCORD BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.csproj.CoreCompileInputs.cache
+X:\Documents\DISCORD BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.AssemblyInfoInputs.cache
+X:\Documents\DISCORD BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.AssemblyInfo.cs
+X:\Documents\DISCORD BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.dll
+X:\Documents\DISCORD BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.pdb
+X:\Documents\DISCORD_BOT\bin\Debug\netcoreapp2.0\DISCORD BOT.deps.json
+X:\Documents\DISCORD_BOT\bin\Debug\netcoreapp2.0\DISCORD BOT.runtimeconfig.json
+X:\Documents\DISCORD_BOT\bin\Debug\netcoreapp2.0\DISCORD BOT.runtimeconfig.dev.json
+X:\Documents\DISCORD_BOT\bin\Debug\netcoreapp2.0\DISCORD BOT.dll
+X:\Documents\DISCORD_BOT\bin\Debug\netcoreapp2.0\DISCORD BOT.pdb
+X:\Documents\DISCORD_BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.csprojResolveAssemblyReference.cache
+X:\Documents\DISCORD_BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.csproj.CoreCompileInputs.cache
+X:\Documents\DISCORD_BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.AssemblyInfoInputs.cache
+X:\Documents\DISCORD_BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.AssemblyInfo.cs
+X:\Documents\DISCORD_BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.dll
+X:\Documents\DISCORD_BOT\obj\Debug\netcoreapp2.0\DISCORD BOT.pdb
